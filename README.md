@@ -148,12 +148,7 @@ View creation
 Query optimization using indexes
 
 Business-oriented data analysis
-## Conclusion
 
-This project demonstrates how SQL can be effectively used for data analysis in an e-commerce environment. By applying SQL concepts such as joins, subqueries, aggregate functions, views, and indexing, valuable business insights were generated from raw transactional data. The project provides a strong foundation for real-world database management and data analytics tasks.
-## Conclusion
-
-This project demonstrates how SQL can be effectively used for data analysis in an e-commerce environment. By applying SQL concepts such as joins, subqueries, aggregate functions, views, and indexing, valuable business insights were generated from raw transactional data. The project provides a strong foundation for real-world database management and data analytics tasks.
 ## Conclusion
 
 This project demonstrates how SQL can be effectively used for data analysis in an e-commerce environment. By applying SQL concepts such as joins, subqueries, aggregate functions, views, and indexing, valuable business insights were generated from raw transactional data. The project provides a strong foundation for real-world database management and data analytics tasks.
